@@ -1,4 +1,4 @@
-q1Score,q2Score,q3Score,q4Score,q5Score,q6Score,q7Score,q8Score,q9Score,A10_Score,age,gender,ethnicity,jundice,austim,country_of_res,used_app_before,result,age_desc,relation,Class/ASD
+q1Score,q2Score,q3Score,q4Score,q5Score,q6Score,q7Score,q8Score,q9Score,A10_Score,age,gender,ethnicity,jundice,austim,country_of_res,used_app_before,result,age_desc,relation,ASD
 1,1,0,0,1,1,0,1,0,0,6,m,Others,no,no,Jordan,no,5,child,Parent,NO
 1,1,0,0,1,1,0,1,0,0,6,m,Middle Eastern ,no,no,Jordan,no,5,child,Parent,NO
 1,1,0,0,0,1,1,1,0,0,6,m,?,no,no,Jordan,yes,5,child,?,NO
